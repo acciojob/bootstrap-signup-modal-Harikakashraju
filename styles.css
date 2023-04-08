@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.test{
+	display:block;
+    justify-content: center;
+	padding: 40px 40px;
+	
+}
+button{
+	background-color: green;
+	margin-left: 300px;
+	color: white;
+	padding: 5px 10px;
+	border: none;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+input{
+	display: stretch;
+	padding: 2px 100px;
+	margin: 5px;
+	text-align: start;
+}
